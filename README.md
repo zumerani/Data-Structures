@@ -9,5 +9,8 @@ The huffman tree used for compressing files. I have created tree.c which has the
 
 Minheap: Implemented a minheap (utilizes vector class in STL).
 
+Maxheap: Implemented a maxheap (utilizes vector class in STL).
+
 Binary: Implemented a binary tree and Binary Search Tree by inheriting from the Binary Tree.
+
 
