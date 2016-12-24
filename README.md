@@ -13,4 +13,12 @@ Maxheap: Implemented a maxheap (utilizes vector class in STL).
 
 Binary: Implemented a binary tree and Binary Search Tree by inheriting from the Binary Tree.
 
+## Stacks
+
+Implemented a very generic stack in Java using generics
+
+## Linked Lists
+
+Implementation of a singly linked list in Java (with a private node class)
+
 
